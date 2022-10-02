@@ -8,7 +8,7 @@ public class Main {
         people.add(new Person("Эллой", "Хорайзан ван лав", 21));
         people.add(new Person("Артур", "Морган фримен халф", 46));
         people.add(new Person("Дзин", "Сакай", 34));
-        people.add(new Person("Тим", "Кук аппле", 61));
+        people.add(new Person("Тим", "Кук-аппле", 61));
 
         System.out.println(people);
         System.out.println();
